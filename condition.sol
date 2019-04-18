@@ -2,7 +2,6 @@ pragma solidity ^0.4.25;
 
 contract Condition{
     bool isNull;
-    bool[] consentRequired;
     uint condType;
     address payFrom;
     address payTo;
